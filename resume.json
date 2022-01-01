@@ -1,0 +1,35 @@
+{
+  "avatar": { "hidden": false },
+  "profile": {
+    "name": "崔家华",
+    "email": "2509605080@qq.com",
+    "mobile": "15735588728",
+    "github": "https://github.com/cuijiahuawx",
+    "zhihu": "",
+    "workExpYear": ""
+  },
+  "educationList": [
+    {
+      "edu_time": "2017.09.01,2021.01.01",
+      "school": "安徽建筑大学城市建设学院",
+      "major": "工程造价",
+      "academic_degree": "本科",
+      "dataIndex": 0
+    }
+  ],
+  "awardList": [
+    { "award_info": "英语 CET6", "award_time": "2019", "dataIndex": 0 }
+  ],
+  "workExpList": [],
+  "skillList": [
+    {
+      "skill_name": "React / 前端工程化",
+      "skill_desc": "大型前端项目经验以及组件库开发经验",
+      "skill_level": 80
+    }
+  ],
+  "projectList": [],
+  "workList": [],
+  "aboutme": { "aboutme_desc": "批判思维\n发散性思维\n开明\n稳重\n有责任心\n" },
+  "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
+}
